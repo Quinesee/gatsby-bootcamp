@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f23711de-eee4-4b0b-8384-c1c790ccfa11" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.env.development" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/gatsby.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/posts/react.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gatsby-config.js" beforeDir="false" afterPath="$PROJECT_DIR$/gatsby-config.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
     </list>
@@ -59,7 +61,7 @@
       <updated>1568120125990</updated>
       <workItem from="1568120129559" duration="5586000" />
       <workItem from="1568140917026" duration="563000" />
-      <workItem from="1568141732542" duration="1134000" />
+      <workItem from="1568141732542" duration="1856000" />
     </task>
     <servers />
   </component>
