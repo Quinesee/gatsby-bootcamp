@@ -1,15 +1,13 @@
 import React from "react";
-import Header from "../components/header";
-import Footer from "../components/footer";
+
+import Layout from "../components/layout";
 
 const ContactPage = () => {
   return (
-    <div>
-      <Header/>
+    <Layout>
       <h1>Contact Me</h1>
       <p>888.888.8888 | me@here.com | <a href="https://duckduckgo.com" target="_blank">@riadtile</a></p>
-      <Footer/>
-    </div>
+    </Layout>
   )
 }
 
