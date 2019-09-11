@@ -30,7 +30,6 @@ const BlogPage = () => {
 
   return(
     <Layout>
-      {console.log(data)}
       <h1>Blog Page</h1>
       <ol>
         {listItems}
