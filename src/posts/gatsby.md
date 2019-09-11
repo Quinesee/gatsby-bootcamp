@@ -1,6 +1,6 @@
 ---
 title: "The Great Gatsby Bootcamp"
-data: "2019-09-10"
+date: "2019-09-10"
 ---
 
 I just launched a new bootcamp!
